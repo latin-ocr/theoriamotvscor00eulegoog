@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theoriamotvscor00eulegoog/theoriamotvscor00eulegoog_0476.png"; bbox 0 0 4092 5134; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 393 1340 1788 1779">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 309 1328 1788 1779">
+     <span class='ocr_line' id='line_1_1' title="bbox 393 1340 1788 1779; baseline -0.011 -125.966"><span class='ocrx_word' id='word_1_1' title='bbox 393 1340 1457 1661; x_wconf 72' lang='lat' dir='ltr'>SUPPLEMENTUM</span> <span class='ocrx_word' id='word_1_2' title='bbox 1588 1768 1593 1779; x_wconf 8' lang='lat'><strong>¹</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1779 1630 1788 1641; x_wconf 78' lang='grc'><strong>,,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 285 1818 1758 2229">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 285 1818 1758 2229">
+     <span class='ocr_line' id='line_1_2' title="bbox 629 1818 1683 1915; baseline -0.002 2"><span class='ocrx_word' id='word_1_4' title='bbox 629 1836 632 1841; x_wconf 70' lang='grc'>“</span> <span class='ocrx_word' id='word_1_5' title='bbox 883 1822 923 1907; x_wconf 90' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_6' title='bbox 943 1824 982 1909; x_wconf 88' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1189 1818 1193 1825; x_wconf 66' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1675 1904 1683 1915; x_wconf 87' lang='grc'>.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 285 1974 1758 2229; baseline -0.006 -8"><span class='ocrx_word' id='word_1_9' title='bbox 285 1974 1601 2229; x_wconf 43' lang='lat' dir='ltr'><strong>noTU&#39;coRPORUM</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1755 2017 1758 2023; x_wconf 81' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 331 2366 1765 2727">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 331 2366 1765 2727">
+     <span class='ocr_line' id='line_1_4' title="bbox 331 2366 1765 2491; baseline -0.005 -9"><span class='ocrx_word' id='word_1_11' title='bbox 331 2366 862 2483; x_wconf 76' lang='lat' dir='ltr'>RlGIDORuM</span> <span class='ocrx_word' id='word_1_12' title='bbox 926 2370 980 2474; x_wconf 92' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_13' title='bbox 1045 2366 1535 2475; x_wconf 86' lang='lat' dir='ltr'>FRlCTlONE</span> <span class='ocrx_word' id='word_1_14' title='bbox 1705 2424 1765 2491; x_wconf 60' lang='lat'><strong>‚-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 666 2572 1448 2727; baseline -0.01 -2"><span class='ocrx_word' id='word_1_15' title='bbox 666 2572 1289 2727; x_wconf 58' lang='lat' dir='ltr'><strong>PERTURBATO.&#39;</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1442 2672 1448 2683; x_wconf 91' lang='lat'><em>-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2050 5134">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2050 5134">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2050 5134; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 2050 5134; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
